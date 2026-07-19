@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi-source Archive Audit"
+  short_description: "Reconcile archive inventories without false missing-file claims"
+  default_prompt: "Use $multi-source-archive-audit to compare these archive inventories and produce an evidence-backed gap report."
